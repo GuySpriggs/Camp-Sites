@@ -16,3 +16,8 @@
 .navbar{
     margin-top: 5px;
 }
+
+#display{
+    display:flex; 
+    flex-wrap: wrap;
+}
